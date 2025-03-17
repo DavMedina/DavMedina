@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate frontend developer from Alicante, Spain</h3>
 
+- 🔭 I am currently looking for a **job as a programmer**
+
 - 🌱 I’m currently learning **courses and bootcamps**
+
+- 💬 Ask me about any of the technologies I learned throughout my studies. **react, css, express...**
 
 - 📫How to contact me **Medinadavid@gmail.com**
 
